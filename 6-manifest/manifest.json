@@ -1,0 +1,29 @@
+{
+  "name": "Recipe List",
+  "short_name": "foodLovers",
+  "icons": [{
+    "src": "resources/images/icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }, {
+      "src": "resources/images/icons/icon-256x256.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }, {
+      "src": "resources/images/icons/icon-256x256.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "resources/images/icons/icon-256x256.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }, {
+      "src": "resources/images/icons/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ee6e73",
+  "theme_color": "red"
+}

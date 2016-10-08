@@ -1,0 +1,20 @@
+[{
+	"recipeName": "pasta",
+	"preprationTime": "40mins",
+	"mainIngredient": "cheese"
+}, {
+
+	"recipeName": "noodles",
+	"preprationTime": "30mins",
+	"mainIngredient": "red thai sauce"
+}, {
+
+	"recipeName": "rajma chawal",
+	"preprationTime": "20mins",
+	"mainIngredient": "maa ka pyar"
+}, {
+
+	"recipeName": "milkshake",
+	"preprationTime": "5mins",
+	"mainIngredient": "milk"
+}]
